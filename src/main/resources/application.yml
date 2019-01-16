@@ -21,4 +21,4 @@ spring:
     config:
       server:
         native:
-          searchLocations: /Users/noelvock/Projects/spring-microservices-in-action/config/src/main/resources/config
+          searchLocations: /Users/noelvock/Projects/spring-microservices-in-action/config/src/main/resources/config/exampleservice
